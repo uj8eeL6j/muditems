@@ -1,0 +1,3 @@
+@Burning defense
+This buckler is crafted out of @(black,red)light @(black,red)piece @(black,red)of @(black,red)ebony upholstered in @dragon @hide. It is of round shape with semi-spherical boss and handle hidden within it. Tiny shield has no metal parts as if it is formed out of ebony by means of carving. Though thin it is reinforced with some form of magic making it as hard as steel while dragon skin provides protection from magic. Ah, and its surface is soaked in @fire @oil.
+round ebony @buckler

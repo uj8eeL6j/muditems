@@ -1,0 +1,3 @@
+@(borange,orange)Warboots of the @(bcyan,cyan)Immortal
+These boots are crafted of tanned black @(green,black)basilisk @(green,black)hide. From top down to ankle they are covered with thin small scales crafted out of @(bwhite,white)polished @(bwhite,white)titanium. Each scale is rigidly riveted to the @(green,black)hide. The tip and the sides are covered with solid @(white,white)titanium @(bwhite,white)shoe which surface is encrusted with @(borange,orange)golden @(borange,orange)scales. Each metallic shoe has ball spur melted to it. Boots replaceable soles are made out of thick hard rubber. 
+@(borange,orange)warboots with @(bwhite,white)titanium @(bwhite,white)plating
