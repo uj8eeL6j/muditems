@@ -1,3 +1,0 @@
-@(bwhite,white)Arcane @(bgreen,green)Shield
-This fashioned out of finest quality silk cape is able to cover the wearer from foul weather if they so desire. Its fabric is dyed into hues of @(bwhite,white)shimmering @(white,bwhite)silver, with very edges dyed into colors of @(cyan,green)malachite. Hood of the cape follows the same pattern. The garment is fastened to the neck with @(borange,orange)thin @(borange,orange)golden @(borange,orange)pin with @(green,cyan)malachite @(green,cyan)sphere embossed into its end.
-@(bwhite,white)silvery silk @(green,cyan)cape 
